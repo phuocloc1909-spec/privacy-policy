@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chính Sách Quyền Riêng Tư - Mai Thiên Thanh</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f9f9f9;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 { color: #1877f2; }
+        h2 { color: #333; margin-top: 25px; }
+        .effective-date { color: #666; font-style: italic; }
+        footer { margin-top: 40px; text-align: center; font-size: 12px; color: #999; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>📋 CHÍNH SÁCH QUYỀN RIÊNG TƯ</h1>
+    <p class="effective-date"><strong>Ngày có hiệu lực:</strong> [DD/MM/YYYY]</p>
+    <p><strong>Ứng dụng / Fanpage:</strong> Mai Thiên Thanh</p>
+    <p><strong>Email liên hệ:</strong> [your-email@example.com]</p>
+
+    <p>Chào mừng bạn đến với Fanpage <strong>"Mai Thiên Thanh"</strong>. Chúng tôi tôn trọng quyền riêng tư của bạn và cam kит bảo vệ dữ liệu cá nhân khi bạn tương tác qua Messenger.</p>
+
+    <h2>1. Chúng tôi thu thập những thông tin gì?</h2>
+    <p>Khi bạn nhắn tin với Fanpage của chúng tôi qua Messenger, hệ thống có thể tự động thu thập:</p>
+    <ul>
+        <li><strong>Thông tin hồ sơ công khai:</strong> Tên, ảnh đại diện, ID người dùng Facebook.</li>
+        <li><strong>Nội dung tin nhắn:</strong> Các tin nhắn bạn gửi để chúng tôi có thể phản hồi.</li>
+        <li><strong>Phản hồi tương tác:</strong> Thời gian nhắn, tần suất tương tác (chỉ để cải thiện dịch vụ).</li>
+    </ul>
+    <p><em>Chúng tôi KHÔNG thu thập số điện thoại, địa chỉ email hoặc dữ liệu nhạy cảm trừ khi bạn chủ động cung cấp.</em></p>
+
+    <h2>2. Chúng tôi sử dụng thông tin của bạn như thế nào?</h2>
+    <ul>
+        <li>✅ Trả lời tin nhắn và hỗ trợ khách hàng.</li>
+        <li>✅ Gửi thông báo, cập nhật (nếu bạn đồng ý).</li>
+        <li>✅ Phân tích hành vi ẩn danh để cải thiện chatbot/dịch vụ.</li>
+        <li>✅ Tuân thủ yêu cầu pháp lý (nếu có).</li>
+    </ul>
+
+    <h2>3. Chúng tôi có chia sẻ thông tin của bạn không?</h2>
+    <p><strong>Chúng tôi KHÔNG bán hoặc chia sẻ dữ liệu cá nhân của bạn cho bên thứ ba</strong> vì mục đích quảng cáo. Một số trường hợp chia sẻ hạn chế bao gồm:</p>
+    <ul>
+        <li><strong>Nhà cung cấp dịch vụ kỹ thuật:</strong> Như Facebook (Meta Platforms), nhà cung cấp máy chủ/hosting (nếu có). Họ chỉ xử lý dữ liệu theo chỉ dẫn của chúng tôi.</li>
+        <li><strong>Theo yêu cầu pháp luật:</strong> Khi tòa án hoặc cơ quan chức năng yêu cầu.</li>
+    </ul>
+
+    <h2>4. Quyền của bạn</h2>
+    <p>Bạn có toàn quyền kiểm soát dữ liệu của mình:</p>
+    <ul>
+        <li>🔹 <strong>Xem hoặc chỉnh sửa:</strong> Liên hệ email dưới đây để yêu cầu.</li>
+        <li>🔹 <strong>Xóa dữ liệu:</strong> Yêu cầu chúng tôi xóa toàn bộ tin nhắn/lịch sử tương tác.</li>
+        <li>🔹 <strong>Ngừng nhận thông báo:</strong> Trả lời tin nhắn với nội dung "DỪNG" hoặc hủy kết nối ứng dụng trong cài đặt Facebook.</li>
+        <li>🔹 <strong>Khiếu nại:</strong> Gửi về email bên dưới, chúng tôi sẽ xử lý trong vòng 30 ngày.</li>
+    </ul>
+
+    <h2>5. Bảo mật dữ liệu</h2>
+    <p>Chúng tôi áp dụng các biện pháp kỹ thuật như mã hóa, kiểm soát truy cập và bảo vệ máy chủ để tránh mất mát hoặc truy cập trái phép. Tuy nhiên, không có hệ thống nào là an toàn tuyệt đối, vui lòng không gửi thông tin cực kỳ nhạy cảm qua Messenger.</p>
+
+    <h2>6. Trẻ em</h2>
+    <p>Dịch vụ của chúng tôi không dành cho người dưới 13 tuổi. Chúng tôi không cố ý thu thập dữ liệu từ trẻ em. Nếu phát hiện, chúng tôi sẽ xóa ngay lập tức.</p>
+
+    <h2>7. Thay đổi chính sách</h2>
+    <p>Chúng tôi có thể cập nhật chính sách này định kỳ. Bản cập nhật sẽ được đăng tại URL này với "Ngày có hiệu lực" mới. Việc tiếp tục tương tác sau khi thay đổi đồng nghĩa với việc bạn chấp nhận.</p>
+
+    <h2>8. Liên hệ</h2>
+    <p>📧 <strong>Email:</strong> [your-email@example.com]<br>
+    🌐 <strong>Fanpage:</strong> <a href="https://www.facebook.com/[username-cua-fanpage]" target="_blank">Mai Thiên Thanh trên Facebook</a></p>
+
+    <footer>
+        © [Năm hiện tại] Mai Thiên Thanh - Bảo lưu mọi quyền.
+    </footer>
+</div>
+</body>
+</html>
